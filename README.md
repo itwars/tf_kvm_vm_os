@@ -8,8 +8,6 @@ This Terraform is used for OS definition :
   - debian
   - ubuntu
   - centos
-  - alpine
-  - openbsd
 
 ## Example
 
